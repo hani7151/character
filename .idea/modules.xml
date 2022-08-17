@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zero_To_Hero.iml" filepath="$PROJECT_DIR$/.idea/modules/Zero_To_Hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zero_To_Hero.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/Zero_To_Hero.cache.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.test.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Zero_To_Hero.data.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Zero_To_Hero.domain.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/Zero_To_Hero.presentation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.main.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.test.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/Zero_To_Hero.remote.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/character.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/character.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/character.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/character.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/character.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/character.buildSrc.test.iml" />
+    </modules>
+  </component>
+</project>

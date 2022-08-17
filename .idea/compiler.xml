@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Android-MVVM-Modular-Kotlin-Sample.buildSrc" target="11" />
+      <module name="Android-MVVM-Modular-Kotlin-Sample.buildSrc.main" target="11" />
+      <module name="Android-MVVM-Modular-Kotlin-Sample.buildSrc.test" target="11" />
+      <module name="character.buildSrc" target="11" />
+      <module name="character.buildSrc.main" target="11" />
+      <module name="character.buildSrc.test" target="11" />
+      <module name="Zero_To_Hero.app" target="11" />
+      <module name="Zero_To_Hero.cache" target="11" />
+      <module name="Zero_To_Hero.presentation" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
